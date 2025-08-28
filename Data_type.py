@@ -23,3 +23,22 @@ last_name = 'singh'
 
 print(type(name))
 print(type(last_name))
+
+# slice means access the value from given point to another point
+
+b= "Hello"
+print(b[-4:-2])
+
+# upper case 
+name = "anurag"
+print(name.upper())
+
+# lower case 
+name = "ANURAG"
+print(name.lower())
+
+# remove whilespace 
+
+a = "   hello, world   "
+
+print(a.strip())
